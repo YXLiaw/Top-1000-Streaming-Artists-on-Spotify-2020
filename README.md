@@ -1,1 +1,1 @@
-# Top 1000 Most Streaming Artists on Spotify (EDA focus)
+# Top 1000 Streaming Artists on Spotify (EDA focus)
