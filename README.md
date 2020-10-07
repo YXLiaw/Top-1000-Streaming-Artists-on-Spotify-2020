@@ -11,6 +11,7 @@
 - **Dataset source** : ChartMasters - https://chartmasters.org/most-streamed-artists-ever-on-spotify/
 - **Spotify Web API** : https://developer.spotify.com/documentation/web-api/reference/
 - **Spotipy documentation** : https://spotipy.readthedocs.io/en/2.16.0/
+- **Reference for data extraction** : https://medium.com/@RareLoot/extracting-spotify-data-on-your-favourite-artist-via-python-d58bc92a4330
 
 **Data Cleaning**
 ---
