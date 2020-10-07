@@ -27,7 +27,7 @@ After importing the data extracted from csv to data frames, I needed to clean up
 
 **Usage**
 ---
-This project is best viewed in a notebook render viewer, which can be accessed [here](https://nbviewer.jupyter.org/github/YXLiaw/Top-1000-Most-Streamed-Artists-on-Spotify-2020/blob/main/Top%201000%20Most%20Streamed%20Artists%20on%20Spotify.ipynb?flush_cache=true). In this notebook, you will find a walkthrough of the work and the respective code with comments on observations from figures.
+This project is best viewed in a notebook render viewer, which can be accessed [here](https://nbviewer.jupyter.org/github/YXLiaw/Top-1000-Most-Streamed-Artists-on-Spotify-2020/blob/main/Top%201000%20Most%20Streamed%20Artists%20on%20Spotify.ipynb?flush_cache=true). In this notebook, you will find a walkthrough of the work and the respective code with comments on observations from figures/charts.
 
 **Legality**
 ---
