@@ -37,11 +37,11 @@ After importing the data extracted from csv to data frames, I needed to clean up
 
 **EDA**
 ---
-(https://user-images.githubusercontent.com/34255556/95595133-6ca76980-0a7e-11eb-8039-0a0bdf383ea9.png)
-(https://user-images.githubusercontent.com/34255556/95595142-6e712d00-0a7e-11eb-8c4c-5d5877114d60.png)
-(https://user-images.githubusercontent.com/34255556/95595146-6f09c380-0a7e-11eb-904b-56ac717863d0.png)
-(https://user-images.githubusercontent.com/34255556/95595150-70d38700-0a7e-11eb-9955-aa75b3cb24ff.png)
-(https://user-images.githubusercontent.com/34255556/95595154-7204b400-0a7e-11eb-8723-b4186eb309db.png)
+![acoustic](https://user-images.githubusercontent.com/34255556/95595133-6ca76980-0a7e-11eb-8039-0a0bdf383ea9.png)
+![2](https://user-images.githubusercontent.com/34255556/95595142-6e712d00-0a7e-11eb-8c4c-5d5877114d60.png)
+![3](https://user-images.githubusercontent.com/34255556/95595146-6f09c380-0a7e-11eb-904b-56ac717863d0.png)
+![4](https://user-images.githubusercontent.com/34255556/95595150-70d38700-0a7e-11eb-9955-aa75b3cb24ff.png)
+![5](https://user-images.githubusercontent.com/34255556/95595154-7204b400-0a7e-11eb-8723-b4186eb309db.png)
 
 
 
