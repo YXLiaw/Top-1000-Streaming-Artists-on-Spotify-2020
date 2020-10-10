@@ -42,17 +42,20 @@ After importing the data extracted from csv to data frames, I needed to clean up
 Currently, pop music dominates the Spotify market from top 1000 most streamed artists on Spotify, followed by dance pop and pop rap as per classified by Spotify.
 
 ### Correlation heatmap for artists
-![Artist correlation](https://user-images.githubusercontent.com/34255556/95596236-b3499380-0a7f-11eb-8b16-30271a6a6777.png)
+![Artist correlation](https://user-images.githubusercontent.com/34255556/95596236-b3499380-0a7f-11eb-8b16-30271a6a6777.png)</p>
 A strong correlation (0.89) was observed between stream count and follower count. In addition, there is a slightly higher correlation between stream count and artist popularity (0.69), compared to between follower count and artist popularity (0.61).
 
 ### Top 10 Artists with Most Followers/Streams on Spotify
-![Followers to Streams](https://user-images.githubusercontent.com/34255556/95596212-ad53b280-0a7f-11eb-908c-53c6f3a30e63.png)
+![Followers to Streams](https://user-images.githubusercontent.com/34255556/95596212-ad53b280-0a7f-11eb-908c-53c6f3a30e63.png)</p>
+Currently, Drake has the most number of streams on Spotify with clear majority, followed by Ed Sheeran, who has the most number of followers on Spotify. Drake, Ariana Grande, Justin Bieber and Ed Sheeran appear in the ranking for both top 10 most number of followers and streams on Spotify.
 
 ### Overall Trend of Audio Features by Year
-![Trend of features](https://user-images.githubusercontent.com/34255556/95596227-b17fd000-0a7f-11eb-9361-680bf11da7cb.png)
+![Trend of features](https://user-images.githubusercontent.com/34255556/95596227-b17fd000-0a7f-11eb-9361-680bf11da7cb.png)</p>
+Average valence (positiveness) of music tracks have been declining since 1920s. Meanwhile, there has been a steady increase in emphasis of speechiness (presence of spoken words in a track) and loudness from 1940s.
 
 ### Acousticness Distribution between Music Keys on Spotify
-![Acousticness distribution](https://user-images.githubusercontent.com/34255556/95596206-ab89ef00-0a7f-11eb-844d-8808bf963ffb.png)
+![Acousticness distribution](https://user-images.githubusercontent.com/34255556/95596206-ab89ef00-0a7f-11eb-844d-8808bf963ffb.png)</p>
+While majority of the acousticness distributions are moderately right skewed, distribution of acousticness for "D#, Eb" key is very heavily left skewed and had very low variability in comparison to other music keys.
 
 **Usage**
 ---
