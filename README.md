@@ -2,13 +2,13 @@
 
 **Background**
 ---
-As a music lover and a new user to Spotify, I am keen to search for new songs that I may find it interesting to listen to based on my own personal preference (i.e songs with high energy and very suitable to dance to). For this project, I will be mainly focusing on the dataset for top 1000 most streamed artists on Spotify from the ChartMasters website and using Spotify's web API for data scraping.
+As a music lover and a new user to Spotify, I am keen to search for new songs that I may find it interesting to listen to based on my own personal preference (i.e songs with high energy and very suitable to dance to). For this project, I will be focusing on the dataset for top 1000 most streamed artists on Spotify from the ChartMasters website and using Spotify's web API for data scraping.
 
 By doing so, this will be useful for my data analysis on some of the following key topics:
 - Factors that makes an artist popular on Spotify
 - Audio feature analysis for favourite artists/albums
 - Overall year trend of audio features on Spotify
-- Artist that has the most number of followers/streams on Spotify
+- Artists with very high number of followers/streams on Spotify
 
 **Instructions for Spotify Data Scraping**
 ---
@@ -37,11 +37,20 @@ After importing the data extracted from csv to data frames, I needed to clean up
 
 **EDA**
 ---
-![Acousticness distribution](https://user-images.githubusercontent.com/34255556/95596206-ab89ef00-0a7f-11eb-844d-8808bf963ffb.png)
-![Followers to Streams](https://user-images.githubusercontent.com/34255556/95596212-ad53b280-0a7f-11eb-908c-53c6f3a30e63.png)
+** Most Popular Music Genres on Spotify
 ![Music Genres](https://user-images.githubusercontent.com/34255556/95596217-af1d7600-0a7f-11eb-9bd5-3251f4844877.png)
-![Trend of features](https://user-images.githubusercontent.com/34255556/95596227-b17fd000-0a7f-11eb-9361-680bf11da7cb.png)
+
+** Correlation heatmap for artists
 ![Artist correlation](https://user-images.githubusercontent.com/34255556/95596236-b3499380-0a7f-11eb-8b16-30271a6a6777.png)
+
+** Top 10 Artists with Most Followers/Streams on Spotify
+![Followers to Streams](https://user-images.githubusercontent.com/34255556/95596212-ad53b280-0a7f-11eb-908c-53c6f3a30e63.png)
+
+** Overall trend of audio features by year
+![Trend of features](https://user-images.githubusercontent.com/34255556/95596227-b17fd000-0a7f-11eb-9361-680bf11da7cb.png)
+
+** Acousticness distribution between different music keys on Spotify
+![Acousticness distribution](https://user-images.githubusercontent.com/34255556/95596206-ab89ef00-0a7f-11eb-844d-8808bf963ffb.png)
 
 **Usage**
 ---
